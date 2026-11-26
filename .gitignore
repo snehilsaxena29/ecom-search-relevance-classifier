@@ -1,0 +1,4 @@
+wands-search-ml/data/
+__pycache__/
+*.pyc
+.pytest_cache/
